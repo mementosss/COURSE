@@ -1,0 +1,27 @@
+[
+  {
+    "word": "it",
+    "declared": true,
+    "type": "EMPTY"
+  },
+  {
+    "word": "value1",
+    "declared": true,
+    "type": "TYPE_I"
+  },
+  {
+    "word": "executable",
+    "declared": true,
+    "type": "TYPE_B"
+  },
+  {
+    "word": "value2",
+    "declared": true,
+    "type": "TYPE_F"
+  },
+  {
+    "word": "value3",
+    "declared": true,
+    "type": "TYPE_B"
+  }
+]

@@ -1,0 +1,12 @@
+program var it : ! begin;
+it as 12.5e10;
+% value1 as 1b;
+$ executable as true;
+! value2 as 1.12;
+$ value3 as true;
+if (value2 GT it) then (value3 as false) else [value1 as 13];
+{
+test12
+}
+read (value1, value2);
+end.
